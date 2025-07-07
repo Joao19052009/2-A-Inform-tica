@@ -11,3 +11,14 @@
 body{
     background: linear-gradient(135deg, #00008B, #7B68EE, black);
 }
+
+#pet {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 80px;
+      height: 80px;
+      background-image: url('https://i.imgur.com/JYUb2k9.gif'); /* Gato pixel */
+      background-size: cover;
+      z-index: 9999;
+}
