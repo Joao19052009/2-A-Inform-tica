@@ -4,7 +4,7 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
-    color: white;
+    color: rgb(0, 0, 0);
     
 }
 
@@ -18,7 +18,7 @@ body{
       left: 0;
       width: 80px;
       height: 80px;
-      background-image: url('https://i.imgur.com/JYUb2k9.gif'); /* Gato pixel */
+      background-image: url('https://i.imgur.com/JYUb2k9.gif'); 
       background-size: cover;
       z-index: 9999;
 }
